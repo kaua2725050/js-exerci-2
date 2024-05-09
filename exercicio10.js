@@ -6,5 +6,5 @@ let nota = prompt("Digte: 0")
 
 while (nota !=0) {
     console.log("isso não é 0")
-    nota = prompt("eu disse 0")
+    nota = prompt("por favor digite 0")
 }

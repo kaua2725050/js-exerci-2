@@ -7,6 +7,7 @@ console.log("-------------------------------------")
 let idade = prompt("Diga sua idade:")
 
 while (idade <=18) {
-    console.log("Pode entrar não lek")
-    idade = prompt("MINTA!!")
+    console.log("Não pode entrar")
+    idade = prompt("Deve ser maior de 18")
 }
+    console.log("Você é maior de idade.")
